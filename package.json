@@ -10,7 +10,7 @@
   "name": "portal_noticias",
   "version": "1.0.0",
   "description": "Site de noticias diretas",
-  "main": "noticias.js",
+  "main": "app.js",
   "devDependencies": {
     "nodemon": "^2.0.7"
   },
